@@ -1,0 +1,1 @@
+SELECT * FROM reports.dim_vh_claims limit 100
